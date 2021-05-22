@@ -1,7 +1,7 @@
 {
-  "name": "vanila-javascript-starter",
+  "name": "create-js-boilerplate",
   "version": "1.0.0",
-  "description": "boilerplate code for vanila-js using parcel",
+  "description": "boilerplate code for vanila-js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +16,8 @@
     "@babel/runtime-corejs2": "^7.14.0",
     "parcel-bundler": "^1.12.5",
     "sass": "^1.34.0"
+  },
+  "bin": {
+    "create-js-boilerplate": "./bin/generate-app"
   }
 }
