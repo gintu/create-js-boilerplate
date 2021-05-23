@@ -1,7 +1,9 @@
 # What is this?
 
-A vannila js boilerplate code starting up your development fast
+Vannila js boilerplate code for fast prototyping
 
 # What to do
 
-Coming up
+```
+npx create-js-boilerplate <app-name>
+```
